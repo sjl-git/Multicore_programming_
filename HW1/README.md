@@ -1,0 +1,1 @@
+Implement a simple filter on 1D array for parallelization

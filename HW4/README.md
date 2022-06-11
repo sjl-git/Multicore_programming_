@@ -1,0 +1,1 @@
+Optimize the application - Smith-Waterman Algorithm with Parallel Programming.
